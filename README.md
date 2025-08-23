@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I love creating things in code and exploring new t
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/actkk)
+- LinkedIn: [Ahmet Cemil Tarık Keskinkılıç](https://www.linkedin.com/in/actk)
 - Email: actkeskinkilic@gmail.com
 
 Thanks for stopping by! ✨
