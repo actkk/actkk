@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I love creating things in code and exploring new t
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: you@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/actkk)
+- Email: actkeskinkilic@gmail.com
 
 Thanks for stopping by! ✨
